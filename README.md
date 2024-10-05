@@ -3,6 +3,7 @@ RAPID7 Cybersecurity tool
 (Monitoring cloud computers )
 
 What is rapid7?
+
 Rapid7 is a company that helps keep organizations safe from cyber threats. They provide various tools and services, including:
 
 Vulnerability Management: Tools like Nexpose and InsightVM to find and fix security weaknesses.
